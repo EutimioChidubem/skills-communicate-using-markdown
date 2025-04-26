@@ -17,3 +17,9 @@ HTML:
 ``` html
 <h1>header 1</h1>
 ```
+
+Tasklist:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] hey
